@@ -1,5 +1,6 @@
 # JP.Morgan Complaint Analysis
-<img width="2592" height="1728" alt="image" src="https://github.com/user-attachments/assets/61b9bed1-3d01-4c12-8a13-65d1c74d2034" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b9b5e72c-f651-481a-9e4c-2d9b9712fc06" />
+" />
 
 # Project Overview
 This project applies sentiment analysis and logistic regression to consumer financial complaints data, predicting dispute likelihood based on emotional indicators in complaint narratives.
